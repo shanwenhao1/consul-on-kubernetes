@@ -8,11 +8,11 @@
   },
   "names": [
     {
-      "C": "US",
-      "L": "Portland",
+      "C": "CN",
+      "L": "SH",
       "O": "Kubernetes",
       "OU": "CA",
-      "ST": "Oregon"
+      "ST": "SH"
     }
   ]
 }
