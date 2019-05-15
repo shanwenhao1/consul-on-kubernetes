@@ -9,9 +9,9 @@ This tutorial will walk you through deploying a three (3) node [Consul](https://
 
 ## Prerequisites
 
-This tutorial leverages features available in Kubernetes 1.11.0 and later.
+This tutorial leverages features available in Kubernetes 1.14.0 and later.
 
-* [kubernetes](http://kubernetes.io/docs/getting-started-guides/binary_release) 1.11.x
+* [kubernetes](http://kubernetes.io/docs/getting-started-guides/binary_release) 1.14.x
 
 ```
 gcloud container clusters create consul \
@@ -20,7 +20,7 @@ gcloud container clusters create consul \
 
 The following clients must be installed on the machine used to follow this tutorial:
 
-* [consul](https://www.consul.io/downloads.html) 1.4.0-rc
+* [consul](https://www.consul.io/downloads.html) 1.4.4
 * [cfssl](https://pkg.cfssl.org) and [cfssljson](https://pkg.cfssl.org) 1.2
 
 ## Usage
@@ -28,7 +28,7 @@ The following clients must be installed on the machine used to follow this tutor
 Clone this repo:
 
 ```
-git clone https://github.com/kelseyhightower/consul-on-kubernetes.git
+git clone https://github.com/shanwenhao1/consul-on-kubernetes.git
 ```
 
 Change into the `consul-on-kubernetes` directory:

@@ -9,10 +9,10 @@
   "names": [
     {
       "C": "CN",
-      "L": "SH",
+      "L": "SZ",
       "O": "Kubernetes",
       "OU": "CA",
-      "ST": "SH"
+      "ST": "SZ"
     }
   ]
 }
