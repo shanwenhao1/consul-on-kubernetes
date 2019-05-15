@@ -20,7 +20,7 @@ gcloud container clusters create consul \
 
 The following clients must be installed on the machine used to follow this tutorial:
 
-* [consul](https://www.consul.io/downloads.html) 1.4.4
+* [consul](https://www.consul.io/downloads.html) 1.4.4-rc1
 * [cfssl](https://pkg.cfssl.org) and [cfssljson](https://pkg.cfssl.org) 1.2
 
 ## Usage
